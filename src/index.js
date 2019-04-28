@@ -49,7 +49,7 @@ import schemaDirectives from './CustomDirective'
       typeDefs,
       resolvers,
       schemaDirectives,
-      playground: PROD ? false : {
+      playground: {
         settings: {
           'request.credentials': 'include'
         }
