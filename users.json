@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5bd40f0bf938930fac0317cf"},"email":"lamido.tijjani@yahoo.com","username":"lmd","password":"$2a$10$E57O46hqNDgUeQjKB9H5IuQLfW8nyfrNTKNpT2ltx5RBeMockmmPa","createdAt":{"$date":"2018-10-27T07:09:00.166Z"},"updatedAt":{"$date":"2018-10-27T07:09:00.166Z"},"__v":0}
+{"_id":{"$oid":"5bd4435850fbb022fc46c5d3"},"email":"kinglamido@gmail.com","username":"lmd","password":"$2a$10$SoMdm576a4eqK1IQ15Q3r.2SVcBRn77moaPAwSeWVNe9ii9PyxEya","createdAt":{"$date":"2018-10-27T10:52:08.401Z"},"updatedAt":{"$date":"2018-10-27T10:52:08.401Z"},"__v":0}
