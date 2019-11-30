@@ -2,7 +2,7 @@ import { gql } from 'apollo-server-express'
 
 export default gql`
 extend type Mutation {
-  createChat(title: String, userIds: [ID!]!): Chat @auth
+  createChat(title: String, userIds: [ID!]!): Chat c
 }
   type Chat {
     id: ID!
